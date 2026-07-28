@@ -5,3 +5,4 @@
 - Input() function
 - Int() function
 - While loops
+- Break statement
