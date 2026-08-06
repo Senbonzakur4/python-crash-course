@@ -9,6 +9,9 @@
 - Raising Exceptions
 - Handling Exceptions
 - Silently Handling Exceptions
+- Storing Data with JSON
+- Using `json.dump()` and `json.load()`
+- Refactoring
 
 
 ## Before running the code
@@ -29,4 +32,4 @@ from pathlib import Path
 path = Path("C:/Users/<your_username>/Documents/<your_directory>/anna_karenina.txt")
 ```
 
-You can download `anna_karenina.txt`, or any other public domain text, from Project Gutenberg [Here](https://www.gutenberg.org/ebooks/1399)
+You can download `anna_karenina.txt`, or any other public domain text, from Project Gutenberg [Here](https://gutenberg.org/)
